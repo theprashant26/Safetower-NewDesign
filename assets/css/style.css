@@ -15871,7 +15871,7 @@ input, textarea {
 }
 .section-content .title {
   color: #301514;
-  font-size: 55px;
+  font-size: 40px;
   text-transform: uppercase;
 }
 @media (min-width: 768px) {
@@ -15886,7 +15886,7 @@ input, textarea {
 }
 @media (min-width: 1200px) {
   .section-content .title {
-    font-size: 85px;
+    font-size: 50px;
   }
 }
 .section-content .title-dash {
@@ -16527,7 +16527,7 @@ input, textarea {
 }
 @media (min-width: 1400px) {
   .hero-slider-single-item .title {
-    font-size: 80px;
+    font-size: 60px;
     line-height: 0.85;
     margin-bottom: -10px;
   }
@@ -16600,7 +16600,8 @@ input, textarea {
   .promo-single-item {
     padding-left: 30px;
     padding-right: 30px;
-    border-right: 1px solid #f2ede9;
+    /* border-right: 1px solid #f2ede9; */
+    border: none;
   }
 }
 @media (min-width: 1800px) {
@@ -16770,7 +16771,7 @@ input, textarea {
 .about-display-wrapper .content {
   position: absolute;
   width: 100%;
-  top: 50%;
+  top: 46%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   z-index: 1;
@@ -16825,7 +16826,7 @@ input, textarea {
   margin-bottom: 18px;
 }
 .about-display-wrapper .content .left .title {
-  font-size: 46px;
+  font-size: 30px;
   margin-bottom: 10px;
 }
 @media (min-width: 768px) {
@@ -16835,11 +16836,11 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .about-display-wrapper .content .left .title {
-    font-size: 70px;
+    font-size: 50px;
   }
 }
 .about-display-wrapper .content .left .sub-title {
-  font-size: 32px;
+  font-size: 20px;
   line-height: 1.3;
 }
 @media (min-width: 992px) {
@@ -16849,7 +16850,7 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .about-display-wrapper .content .left .sub-title {
-    font-size: 48px;
+    font-size: 30px;
   }
 }
 .about-display-wrapper .content .right {
