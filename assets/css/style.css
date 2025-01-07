@@ -15798,7 +15798,7 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .section-top-space {
-    margin-top: 160px;
+    margin-top: 60px;
   }
 }
 
@@ -15820,8 +15820,8 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .section-inner-gap {
-    padding-top: 160px;
-    padding-bottom: 160px;
+    padding-top: 80px;
+    padding-bottom: 80px;
   }
 }
 
@@ -16015,7 +16015,7 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .p-b-160 {
-    padding-bottom: 160px;
+    padding-bottom: 60px;
   }
 }
 
@@ -16826,7 +16826,7 @@ input, textarea {
   margin-bottom: 18px;
 }
 .about-display-wrapper .content .left .title {
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 10px;
 }
 @media (min-width: 768px) {
@@ -16836,11 +16836,11 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .about-display-wrapper .content .left .title {
-    font-size: 50px;
+    font-size: 37px;
   }
 }
 .about-display-wrapper .content .left .sub-title {
-  font-size: 20px;
+  font-size: 17px;
   line-height: 1.3;
 }
 @media (min-width: 992px) {
@@ -16850,7 +16850,7 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .about-display-wrapper .content .left .sub-title {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 .about-display-wrapper .content .right {
@@ -19382,7 +19382,7 @@ Components - Sidebar Widget
   /*Header Social Link*/
 }
 .header-bottom .logo {
-  width: 190px;
+  width: 150px;
   overflow: hidden;
 }
 .header-bottom .logo img {
@@ -19487,7 +19487,7 @@ Components - Sidebar Widget
   z-index: 99;
   width: 100%;
   top: 0;
-  background: #ff9900;
+  background: #f9be65;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
   -webkit-animation-name: fadeInDown;
