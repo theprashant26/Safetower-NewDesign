@@ -19193,12 +19193,12 @@ Components - Sidebar Widget
 }
 @media (min-width: 576px) {
   .about-wrapper .content .title {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 @media (min-width: 1200px) {
   .about-wrapper .content .title {
-    font-size: 70px;
+    font-size: 45px;
   }
 }
 .about-wrapper .content .sub-title {
