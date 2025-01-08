@@ -19394,8 +19394,8 @@ Components - Sidebar Widget
   display: flex;
 }
 .header-bottom .header-nav > li > a {
-  padding-right: 20px;
-  padding-left: 20px;
+  padding-right: 16px;
+  padding-left: 16px;
   font-size: 18px;
   line-height: 100px;
   display: inline-block;
@@ -19404,8 +19404,8 @@ Components - Sidebar Widget
 }
 @media (min-width: 1200px) {
   .header-bottom .header-nav > li > a {
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-right: 25px;
+    padding-left: 25px;
   }
 }
 .header-bottom .header-nav > li > a:hover {
