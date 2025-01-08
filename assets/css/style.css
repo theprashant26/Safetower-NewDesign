@@ -15798,7 +15798,7 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .section-top-space {
-    margin-top: 60px;
+    margin-top: 80px;
   }
 }
 
@@ -16527,27 +16527,28 @@ input, textarea {
 }
 @media (min-width: 1400px) {
   .hero-slider-single-item .title {
-    font-size: 60px;
+    font-size: 65px;
     line-height: 0.85;
     margin-bottom: -10px;
   }
 }
 .hero-slider-single-item .sub-title {
-  font-size: 20px;
+  font-size: 12px;
+  font-weight: 400 !important;
   text-transform: uppercase;
   line-height: 1;
   margin-bottom: 45px;
 }
 @media (min-width: 1200px) {
   .hero-slider-single-item .sub-title {
-    font-size: 28px;
+    font-size: 17px;
     line-height: 1;
     margin-bottom: 35px;
   }
 }
 @media (min-width: 1400px) {
   .hero-slider-single-item .sub-title {
-    font-size: 25px;
+    font-size: 20px;
     line-height: 1;
     margin-top: 15px;
     margin-bottom: 50px;
@@ -17278,7 +17279,6 @@ input, textarea {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  position: relative;
   margin-bottom: -50px;
 }
 @media (min-width: 576px) {
@@ -17425,7 +17425,7 @@ input, textarea {
 }
 @media (min-width: 992px) {
   .counter-single-item .icon {
-    margin-right: 50px;
+    margin-right: 20px;
     margin-bottom: 0;
   }
 }
