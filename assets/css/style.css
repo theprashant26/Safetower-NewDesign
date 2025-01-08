@@ -16521,7 +16521,7 @@ input, textarea {
 }
 @media (min-width: 1200px) {
   .hero-slider-single-item .title {
-    font-size: 85px;
+    font-size: 55px;
     line-height: 0.85;
   }
 }
@@ -16540,7 +16540,7 @@ input, textarea {
 }
 @media (min-width: 1200px) {
   .hero-slider-single-item .sub-title {
-    font-size: 60px;
+    font-size: 28px;
     line-height: 1;
     margin-bottom: 35px;
   }
@@ -19394,18 +19394,20 @@ Components - Sidebar Widget
   display: flex;
 }
 .header-bottom .header-nav > li > a {
-  padding-right: 16px;
-  padding-left: 16px;
+  padding-right: 13px;
+  padding-left: 13px;
   font-size: 18px;
   line-height: 100px;
   display: inline-block;
-  color: #fff;
+  /* color: #fff; */
+  color: #f78d02;
+  font-weight: 600;
   position: relative;
 }
 @media (min-width: 1200px) {
   .header-bottom .header-nav > li > a {
-    padding-right: 25px;
-    padding-left: 25px;
+    padding-right: 22px;
+    padding-left: 22px;
   }
 }
 .header-bottom .header-nav > li > a:hover {
@@ -19487,7 +19489,7 @@ Components - Sidebar Widget
   z-index: 99;
   width: 100%;
   top: 0;
-  background: #f9be65;
+  background: #ffeee1;
   -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
   -webkit-animation-name: fadeInDown;
