@@ -16856,7 +16856,7 @@ input, textarea {
 }
 .about-display-wrapper .content .right {
   -ms-flex-preferred-size: 34%;
-      flex-basis: 34%;
+      flex-basis: 45%;
 }
 
 /*****************************
@@ -17836,13 +17836,13 @@ input, textarea {
   margin-bottom: -20px;
 }
 .blog-feed-slider-single-item .content .title {
-  margin-top: 25px;
-  margin-bottom: 20px;
-  font-size: 26px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 24px;
 }
 @media (min-width: 768px) {
   .blog-feed-slider-single-item .content .title {
-    font-size: 30px;
+    font-size: 22px;
   }
 }
 .blog-feed-slider-single-item .content .title a {
