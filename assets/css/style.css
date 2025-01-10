@@ -16767,7 +16767,7 @@ input, textarea {
   background: #301514;
   top: 0;
   left: 0;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 .about-display-wrapper .content {
   position: absolute;
@@ -19273,9 +19273,19 @@ Components - Sidebar Widget
 }
 @media (min-width: 992px) {
   .about-wrapper-1 .image img {
-    height: 500px;
+    height: 450px;
   }
 }
+.mylist li strong {
+  color: #ff9900;
+  font-size: 18px;
+  padding: 3px;
+}
+.mylist li {
+  font-size: 15px;
+  padding: 3px;
+}
+
 .about-wrapper-2 {
   -webkit-box-orient: vertical;
   -webkit-box-direction: reverse;
