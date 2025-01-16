@@ -74,6 +74,9 @@
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fcf8e3;
 }
+p {
+  text-align: justify;
+}
 
 *,
 *::before,
@@ -15784,7 +15787,7 @@ input, textarea {
 }
 
 .section-top-space {
-  margin-top: 80px;
+  margin-top: 120px;
 }
 @media (min-width: 576px) {
   .section-top-space {
