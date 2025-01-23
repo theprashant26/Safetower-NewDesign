@@ -19389,13 +19389,13 @@ Components - Sidebar Widget
 
 /*Header Bottom*/
 .header-bottom {
-  background: rgba(48, 21, 20, 0.05);
+  background: #ffeee1;
   /*Header Logo*/
   /*Header Menu*/
   /*Header Social Link*/
 }
 .header-bottom .logo {
-  width: 150px;
+  width: 95px;
   overflow: hidden;
 }
 .header-bottom .logo img {
