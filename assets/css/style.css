@@ -19919,7 +19919,7 @@ Components - Sidebar Widget
   left: 0;
   width: 100%;
   z-index: 99;
-  background: rgba(48, 21, 20, 0.05);
+  background: #ffeee1;
   padding: 20px 0;
 }
 
